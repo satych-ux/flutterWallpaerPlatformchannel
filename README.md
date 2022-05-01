@@ -1,6 +1,12 @@
 # satyam_wallpaper
 
-A new Flutter project.
+- Getx state management used
+- Platform channels used ( along with  kotlin )
+- Pixels api used for wallpapers
+- Can set wallpaper on Lockscreen or Homescreen or both
+- Network errors handled carefully
+- Networking is extensible and abstracted.Cancel changes
+
 
 ## Getting Started
 
